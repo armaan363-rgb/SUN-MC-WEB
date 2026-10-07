@@ -1,0 +1,15 @@
+{
+ "name": "SUN MC",
+ "short_name": "SUN MC",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#0b0905",
+ "theme_color": "#ffbe1a",
+ "icons": [
+  {
+   "src": "assets/logo-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://store.sunmc.qzz.io/sitemap.xml
